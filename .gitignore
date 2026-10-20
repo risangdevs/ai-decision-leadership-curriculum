@@ -6,5 +6,10 @@
 # Curriculum quality-assurance outputs
 /QA/
 
+# Generated build artifacts and outputs
+/.codex-build/
+/assets/
+/output/
+
 # macOS metadata
 .DS_Store
