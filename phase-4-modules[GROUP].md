@@ -33,6 +33,10 @@ The phase tests whether the learner can operate, challenge, govern, and economic
 - [Phase 4 Source Guide](phase-4-source-guide.md)
 - [Source Origin Map](source-origin-map.md)
 
+## Assessment and delivery control
+
+Use these chapters with the prerequisite, workload, accessible-simulation, module-evidence, common-scale, calibration, reassessment, and appeal rules in the [Phase 4 Course Guide](phase-4-course-guide.md). Presentation style is not a scoring construct; every summative decision must cite evidence and apply the hard stops.
+
 ---
 
 ## Consolidated module content

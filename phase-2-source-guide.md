@@ -4,7 +4,7 @@
 
 This guide consolidates the external foundations used in Phase 2: analytical question design, data structure, metric quality, evidence interpretation, experimentation, and AI-enabled execution. It supports Modules 3–7 and their cumulative portfolio artifacts.
 
-The inventory reflects the sources cited in the curriculum on **25 September 2026**. For operational use, verify the current version, methodology, organizational fit, and any sector- or jurisdiction-specific requirements.
+The inventory was reviewed on **20 October 2026**. Consequential official sources were prioritized for currency checks; a listed source that was not independently re-opened remains a provenance record, not a current-status guarantee. For operational use, record the title, author/institution, publication or version date, identifier, direct claim supported, original URL, access date, verification result, methodology, organizational fit, and any sector- or jurisdiction-specific requirements.
 
 ---
 
@@ -143,3 +143,7 @@ For every material analytical or implementation claim:
 6. Record an access date and recheck living guidance before operational use.
 
 For publisher provenance and source classification, see the [Source Origin Map](source-origin-map.md).
+
+# 7. Source maintenance control
+
+The curriculum owner appoints a source steward. The steward reviews living sources quarterly, before each cohort, and immediately after a material methods, workforce, technical, or vendor change. The review log records source, prior/current version, status, claims affected, modules/artifacts affected, action, reviewer, date, and approval. A changed URL is not silently substituted; retain the reason and verify whether teaching, calculations, or assessment must change.

@@ -403,3 +403,31 @@ Before Phase 1 is complete, confirm that the learner can answer:
 - What evidence would make us change our mind?
 
 Phase 1 ends only when the learner can defend these answers under oral challenge and update them when new evidence appears.
+
+---
+
+# 9. Delivery, access, and assessment controls
+
+## Entry and workload
+
+No technical build experience is required. Learners should be able to describe a real or synthetic organizational decision and perform basic percentage/rate interpretation. Use an entry diagnostic to identify support needs; do not infer readiness from job title.
+
+Plan six facilitated sessions of **75–120 minutes** (7.5–12 contact hours) plus approximately **8–15 hours** of independent case and artifact work. These are planning ranges to be measured during pilot delivery, not evidence of actual learner workload.
+
+## Common competency interpretation
+
+The existing 1–4 artifact and examination rubrics map directly to the program levels: 1 Insufficient, 2 Developing, 3 Proficient, and 4 Advanced. Phase progression requires at least 3 in every assessed dimension and no unresolved critical error.
+
+For summative decisions, the evaluator must cite artifact and oral evidence. A second calibrated evaluator reviews every hard-stop failure, appeal, and a defined sample of passing work. Resolve disagreements against the descriptors and evidence, not seniority or preferred conclusion.
+
+## Accessible and equivalent participation
+
+- Provide text equivalents, logical reading order, meaningful descriptions of visuals, and accessible tables for every case and presentation.
+- Permit equivalent written, spoken, or assistive-technology-supported responses where speed or presentation style is not the construct.
+- Supply a synthetic case when workplace information cannot be used safely.
+- Never require confidential, personal, regulated, or security-sensitive information in an unapproved AI tool.
+- Record approved accommodations and confirm that they preserve the same reasoning and transfer standard.
+
+## Source and case control
+
+Before each cohort, verify the current status of consequential governance and legal sources, freeze the learner and facilitator case versions, and keep hidden evidence separate. Worked answers are released only after the independent attempt is recorded.

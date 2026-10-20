@@ -40,6 +40,10 @@ The phase moves from component-level engineering to organization-level value. Ev
 - [Phase 3 Source Guide](phase-3-source-guide.md)
 - [Source Origin Map](source-origin-map.md)
 
+## Assessment and delivery control
+
+Use these chapters with the prerequisite, workload, supported-environment, accessibility, module-evidence, common-scale, calibration, reassessment, and appeal rules in the [Phase 3 Course Guide](phase-3-course-guide.md). A qualitative completion standard does not automatically establish proficiency; evaluators must cite artifact and defense/test evidence.
+
 ---
 
 ## Consolidated module content

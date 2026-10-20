@@ -193,3 +193,35 @@ These files are written as comprehensive source chapters, not presentation scrip
 - preserve the distinction between prediction, prescription, and causation.
 
 The DSD and AI Execution Specification are curriculum frameworks and should be adapted to the organization's formal governance, legal obligations, and sector standards.
+
+---
+
+## Entry, workload, tools, and accessibility
+
+Learners should first demonstrate Phase 1 proficiency in decision ownership, alternatives, assumptions, affected parties, and AI suitability. Use short diagnostics for percentages/rates, table interpretation, correlation versus causation, and data grain. Provide preparatory support before Module 6 when experiment or statistical concepts are weak.
+
+The full version contains **10–12.5 contact hours**. Plan **18–30 independent hours** for the six artifacts and revision, then validate the range during a pilot. The executive version is an exposure pathway unless the same artifacts, gates, independent work, and transfer assessment are completed; reduced contact time alone is not evidence of equivalent mastery.
+
+Provide a tool-neutral sample dataset, data dictionary, expected baseline checks, and a reproducible calculation method. Learners who cannot use workplace data must receive the NovaCart or equivalent synthetic pack. Materials and assessments must have accessible text/table formats and equivalent response modes consistent with the program-wide standard in `README.md`.
+
+## Cross-phase assessment standard
+
+Native Phase 2 artifact scores remain 0–2. Interpret them for the common program level as follows:
+
+| Native result | Common level | Meaning |
+|---:|---:|---|
+| 0 | 1 — Insufficient | Missing, unsafe, contradicted, or not decision-relevant |
+| 1 | 2 — Developing | Plausible but materially incomplete or weakly evidenced |
+| 2 | 3 — Proficient | Independently complete and defensible for the stated context |
+
+Level 4 — Advanced requires additional evidence from an unfamiliar, adversarial, or transfer task; it is not awarded from a native score of 2 alone.
+
+| Module | Minimum Level-3 evidence |
+|---:|---|
+| 3 | An owned decision, defined population/outcome/comparison, justified analytics type, limitations, and result-to-action logic |
+| 4 | Explicit grain, keys, time rules, controlled joins/denominators, lineage, and validation checks demonstrated on records |
+| 5 | Reproducible KPI definitions and a DSD connecting evidence, options, trade-offs, authority, action, monitoring, and reversal |
+| 6 | Pre-specified intervention, counterfactual, assignment, metrics, validity/ethics controls, analysis, and decision rule |
+| 7 | Bounded task, baseline and non-AI comparison, explicit human authority, layered controls, stage gates, and accountable owners |
+
+Summative reviewers must calibrate on benchmark artifacts before the cohort. Double-score every hard-stop failure or appeal and a defined sample of portfolios; record exact evidence and disagreement resolution.

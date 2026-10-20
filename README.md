@@ -23,6 +23,19 @@ The program is designed around a simple principle:
 | 3 | AI systems, organizational workflows, and business value | 8–13 | [Course guide](phase-3-course-guide.md) · [Modules](phase-3-modules[GROUP].md) · [Workbook](phase-3-artifact-workbook.md) · [Sources](phase-3-source-guide.md) |
 | 4 | Sustainable AI decision leadership | 14–16 | [Course guide](phase-4-course-guide.md) · [Modules](phase-4-modules[GROUP].md) · [Final capstone](phase-4-final-capstone-workbook.md) · [Sources](phase-4-source-guide.md) |
 
+## Program competencies
+
+The 16 modules develop six connected competencies. Completion requires evidence of proficiency in all six; a strong average cannot compensate for a critical safety, evidence, or accountability failure.
+
+| Code | Competency | Terminal performance |
+|---|---|---|
+| C1 | Decision Framing | Define an owned choice, alternatives, affected parties, evidence needs, constraints, and reversal conditions |
+| C2 | Evidence Evaluation | Evaluate data, metrics, causal claims, experiments, sources, uncertainty, and reproducibility |
+| C3 | AI Application | Select proportionate AI use, analyze independently, verify outputs, and retain accountable judgment |
+| C4 | AI System Design | Specify bounded assistants and workflows with permissions, tests, fallback, observability, and change control |
+| C5 | Risk and Governance | Govern privacy, security, fairness, legal, vendor, human, operational, incident, and lifecycle risks |
+| C6 | Strategic Leadership | Defend value, economics, ownership, dissent, adoption, stage gates, and stop or scale decisions |
+
 ## The four phases
 
 ### Phase 1 — AI decisions and decision framing
@@ -49,6 +62,18 @@ Learners build repeatable decision habits, exercise executive judgment under pre
 
 Primary artifacts include the Decision Operating System, executive decision record, governance framework, risk register, and final capstone.
 
+## Case portfolio
+
+The program deliberately uses both continuity cases and transfer cases.
+
+| Case family | Primary use | Status |
+|---|---|---|
+| Northstar, NusantaraPay, churn, maintenance, securities, promotion, and other Phase 1 cases | Decision framing, AI suitability, oversight, and cross-sector transfer | Fictional, illustrative, or retrospective learning records as labeled |
+| NovaCart | Cumulative Modules 3–7 evidence and execution sequence | Fictional running case; may be replaced by an equivalent sector case |
+| Asteria Appliances | Integrated Modules 8–16 system, workflow, business-case, and governance sequence | Fictional running case with controlled evidence releases |
+
+A worked case must follow an independent learner attempt when it is used for assessment. Fictional figures are not empirical benchmarks, and instructor-only evidence releases must not be disclosed before the learner commits to a position.
+
 ## Learning method
 
 The curriculum uses realistic cases, cumulative artifacts, and an **Analyze–Challenge–Verify–Decide** cycle:
@@ -59,6 +84,29 @@ The curriculum uses realistic cases, cumulative artifacts, and an **Analyze–Ch
 4. **Decide:** accept, modify, or reject each suggestion and document why.
 
 AI may extend judgment, but it is not treated as the decision owner or source of truth.
+
+## Assessment, access, and delivery standard
+
+Artifact-specific rubrics remain authoritative for the work they assess. Across phases, evaluators also report a common competency level:
+
+| Level | Classification | Common interpretation |
+|---:|---|---|
+| 1 | Insufficient | Missing, unsafe, contradicted, or dependent on unsupported claims |
+| 2 | Developing | Partly correct but materially incomplete or dependent on prompts/familiar cases |
+| 3 | Proficient | Independent, evidence-backed, coherent, and defensible for the stated context |
+| 4 | Advanced | Transfers under unfamiliar or adversarial conditions and revises appropriately |
+
+Course guides define how native rubric scores map to this common judgment. High-stakes oral, architecture, and board assessments require calibrated evaluators, cited evidence, documented disagreement resolution, and an appeal route. Critical legal, safety, security, rights, evidence, or ownership failures cannot be averaged away.
+
+Required learning must be available in accessible formats. Delivery should follow [WCAG 2.2](https://www.w3.org/TR/WCAG22/) where applicable, provide text equivalents for visual/audio materials, support keyboard and assistive-technology use, and offer equivalent response modes or approved accommodations without reducing the competency standard. A synthetic case and approved tool environment must be available when workplace data or commercial tools are unavailable or inappropriate.
+
+The curriculum is designed for controlled educational delivery. Learning effectiveness, workload assumptions, transfer, and inter-rater reliability must be validated with pilot evidence before making certification, equivalence, or broad effectiveness claims.
+
+For planning, the full pathway currently estimates **65.5–84.5 contact hours** and **96–165 independent hours**. Phase guides explain the ranges. These are capacity-planning assumptions to validate during a controlled pilot, not measured completion-time claims.
+
+Delivery requires a lead facilitator plus named escalation coverage for statistics/experimentation, AI engineering and security, finance, and legal/privacy questions. One person may hold several roles only when qualified. Before enrollment, publish cohort size, office/support hours, feedback dates, reassessment timing, and assessor availability. The planning service level is feedback within **10 business days** for standard summative artifacts and **15 business days** for the final integrated package; reduce cohort size or extend the published schedule when that service level cannot be met.
+
+When a learner does not pass, record the exact failed descriptor, assign targeted practice, require a versioned revision, and reassess with a different case or data variation. Preserve both attempts. Appeals may address procedural error, omitted evidence, access barriers, bias, or rubric misapplication and are reviewed by someone not responsible for the original decision.
 
 ## Recommended starting path
 
@@ -88,4 +136,4 @@ Sources include government frameworks, legal texts, international standards, int
 - `phase-*-modules[GROUP].md` contains the complete module content for that phase.
 - `phase-*-artifact-workbook.md` contains learner templates and portfolio activities.
 - `phase-*-source-guide.md` explains the phase's evidence base and appropriate source use.
-- Files beginning with `[NOTE]` or `[STUDY]` are personal learning records and are intentionally excluded from version control.
+- Files beginning with `[NOTE]` or `[STUDY]` are personal learning records and are intentionally excluded from version control. A “passed” or “completed” statement in such a file records that learning context only; it is not independent certification, accreditation, or evidence that the full program is effective.

@@ -4,7 +4,9 @@
 
 This guide consolidates the external foundations used in Phase 1: AI decision suitability, decision framing, root-cause analysis, human oversight, accountability, and stakeholder mapping. It supports Modules 1–2 and the Phase 1 portfolio artifacts.
 
-The inventory reflects the sources cited in the curriculum on **25 September 2026**. For operational use, verify the current version, source status, jurisdictional applicability, and any organization-specific requirements. Legal and regulatory sources do not replace qualified advice.
+The inventory was reviewed on **20 October 2026**. Consequential official sources were prioritized for currency checks; a listed source that was not independently re-opened remains a provenance record, not a current-status guarantee. For operational use, record the title, author/institution, publication or version date, identifier, direct claim supported, original URL, access date, verification result, and jurisdictional applicability. Legal and regulatory sources do not replace qualified advice.
+
+NIST states that AI RMF 1.0 is under revision. The EU AI Act and its implementation schedule may be affected by current amendments and implementing measures. Version-lock the material used for a cohort and check the official consolidated/legal status before teaching an obligation or effective date.
 
 ---
 
@@ -112,4 +114,8 @@ For every material claim or control derived from these sources:
 5. Record limitations, conflicting evidence, and the human judgment still required.
 
 For publisher provenance and source classification, see the [Source Origin Map](source-origin-map.md).
+
+# 6. Source maintenance control
+
+The curriculum owner appoints a source steward. The steward reviews living sources quarterly, before each cohort, and immediately after a material legal, standards, security, or vendor change. The review log records source, prior/current version, status, claims affected, modules/artifacts affected, action, reviewer, date, and approval. A changed URL is not silently substituted; retain the reason and verify whether teaching or assessment must change.
 

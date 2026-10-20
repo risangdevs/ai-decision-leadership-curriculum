@@ -2,7 +2,7 @@
 
 ## Purpose and status
 
-This guide records the principal external foundations for Modules 14–16 and the final capstone. Sources were checked on **25 September 2026**. It is not legal advice and does not replace jurisdiction-, sector-, contract-, labor-, or organization-specific analysis.
+This guide records the principal external foundations for Modules 14–16 and the final capstone. Priority official sources were checked on **20 October 2026**. A listed source that was not independently re-opened remains a provenance record, not a current-status guarantee. This guide is not legal advice and does not replace jurisdiction-, sector-, contract-, labor-, or organization-specific analysis.
 
 AI regulation, standards, technical guidance, and vendor capabilities change quickly. For a real decision:
 
@@ -117,7 +117,7 @@ Do not convert broad principles into universal one-line rules. Determine territo
 - Current implementation overview: [European Commission — AI regulatory framework](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
 - Applies to: prohibited practices, risk classification, providers/deployers, general-purpose AI, high-risk obligations, transparency, logging, human oversight, monitoring, and incident reporting.
 
-As checked on 25 September 2026, the Commission page states that the Act entered into force on 1 August 2024 and became generally applicable on 2 August 2026, with staged exceptions and later dates for specified high-risk categories. The official page also reflects 2026 amendments and implementation material. Verify the current legal text, classification, role, and applicable date before relying on this summary.
+The original Regulation entered into force in August 2024 and Article 113 established staged application dates, including general application from 2 August 2026 and later dates for specified provisions. In 2026, EU institutions published targeted amendment and implementation material that may affect timing or scope. Do not treat this paragraph as a current legal schedule: verify the consolidated official text, amendment status, classification, organizational role, and applicable date with qualified counsel before relying on it.
 
 The course deliberately teaches a jurisdiction map rather than treating the EU risk categories as a global taxonomy.
 
@@ -241,3 +241,9 @@ For every material governance claim, create a record:
 - “Bias-free,” “fully explainable,” “secure,” or “zero hallucination.”
 - “Human in the loop” without a tested oversight design.
 - “Industry standard” without naming the standard, edition, and applicability.
+
+---
+
+# 10. Source maintenance control
+
+The curriculum owner appoints a source steward with named legal/privacy and security reviewers. They review living sources quarterly, before each cohort, and immediately after a material amendment, standards revision, threat update, or vendor change. The log records source, prior/current version, binding status, applicability, claims affected, modules/artifacts affected, action, reviewer, date, counsel confirmation where required, and approval. No legal schedule or compliance conclusion is carried forward from a prior cohort without a current check.

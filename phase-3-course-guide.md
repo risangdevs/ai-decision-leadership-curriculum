@@ -31,7 +31,7 @@ At the end of Phase 3, the learner can:
 7. Analyze tables and charts while separating observation, calculation, interpretation, and recommendation.
 8. Conduct evidence-disciplined market research and expose unsupported claims.
 9. Build a business case using total cost, measurable benefits, risk, sensitivity analysis, and adoption requirements.
-10. Defend one production-ready AI workflow in an architecture review.
+10. Defend one controlled-pilot-ready AI workflow in an architecture review.
 
 ---
 
@@ -78,7 +78,7 @@ The learner builds five connected deliverables. Each is versioned and revised af
 | **4. Analytics Notebook** | 12 | Reproducible evidence analysis | Data lineage, calculations, validation, chart/table interpretations, limitations, recommendations |
 | **5. AI Business Case** | 13 | Defensible investment proposal | Baseline, alternatives, costs, benefits, risks, KPIs, adoption plan, ROI range, stage gates |
 
-The final exercise integrates all five into one production-ready AI workflow package.
+The final exercise integrates all five into one controlled-pilot-ready AI workflow package.
 
 ---
 
@@ -275,9 +275,9 @@ Document the test-set source, labeling instructions, reviewer agreement, exclusi
 
 ---
 
-# 9. Final exercise: production-ready AI workflow
+# 9. Final exercise: controlled-pilot-ready AI workflow
 
-“Production-ready” in this phase means ready for a controlled organizational pilot, not universal proof of safety.
+“Controlled-pilot-ready” means ready for a restricted organizational test with explicit owners, monitoring, fallback, and stop criteria. It is not production deployment approval or universal proof of safety.
 
 ## Required package
 
@@ -322,3 +322,38 @@ The learner passes when the package is coherent end to end, critical risks have 
 The curriculum is aligned to the [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework), organized around Govern, Map, Measure, and Manage, and to the [NIST Generative AI Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf), which emphasizes documented data fitness, fact-checking, adversarial testing, human–AI configuration, and ongoing monitoring. Security exercises use the [OWASP Top 10 for LLM and Generative AI Applications](https://genai.owasp.org/llm-top-10/), including prompt injection, sensitive information disclosure, improper output handling, excessive agency, vector/embedding weaknesses, misinformation, and unbounded consumption.
 
 Human authority, traceability, and contestability reflect the updated [OECD AI Principles](https://oecd.ai/en/ai-principles). Technical foundations draw on the original [retrieval-augmented generation paper](https://papers.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf) and [ReAct paper](https://arxiv.org/abs/2210.03629). These sources are general guidance, not a substitute for applicable sector, jurisdiction, privacy, employment, safety, procurement, or professional requirements.
+
+---
+
+# 11. Entry, delivery, tooling, access, and scoring controls
+
+## Entry and workload
+
+Before Phase 3, confirm proficiency in decision framing, data/metric integrity, evidence strength, experiment logic, and AI opportunity selection. Diagnose—not assume—ability to read structured data, explain a workflow, calculate a baseline, and use a notebook or equivalent reproducible analysis environment.
+
+The phase contains **24–36 contact hours** plus a planning range of **35–60 independent hours** for the five builds, testing, revision, and final defense. Measure actual workload during pilot delivery. Scope must be reduced when the available time cannot support representative testing and revision; artifact quality cannot be replaced by document volume.
+
+## Supported environment
+
+Before enrollment, publish the supported tool versions, accounts/costs, approved models/providers, notebook/runtime, sample data, sandbox boundaries, network and credential rules, retention, and technical support route. Provide a tool-neutral or no-cost equivalent path. Prototype work must use synthetic or authorized data in an isolated environment with least privilege; learners must record versions, dependencies, seeds/configuration where relevant, and instructions that let another reviewer reproduce the main result.
+
+## Accessible participation
+
+Provide accessible diagrams, text descriptions of architecture/workflows, captions or transcripts, keyboard-compatible tools where feasible, and an equivalent non-visual method for demonstrating system reasoning. Tool limitations must not be scored as learner incompetence when an approved equivalent method demonstrates the same outcome.
+
+## Common assessment levels and module anchors
+
+Retain the existing 0–4 architecture score, then report the common program level separately: native 0–1 maps to Level 1 Insufficient, 2 to Developing, 3 to Proficient, and 4 to Advanced. A qualitative “complete” statement does not automatically establish Level 3; the evaluator must cite the evidence below.
+
+| Module | Minimum Level-3 evidence |
+|---:|---|
+| 8 | System/trust-boundary diagram; justified pattern choice; tested prompt contract; normal, edge, and adversarial results; diagnosed failures |
+| 9 | Buildable assistant specification with testable requirements, enforceable boundaries, governed sources/tools/rules, escalation, metrics, and owners |
+| 10 | End-to-end thin slice with enforceable decision rights, data contract, observed failure/recovery, audit evidence, and tested manual fallback |
+| 11 | Materially distinct alternatives, consistent criteria, pivotal assumption tests, evidence-based confidence, and versioned prompt decisions |
+| 12 | Reproducible notebook/environment, lineage, recalculated headline results, cross-validation, uncertainty/limitations, and AI-use log |
+| 13 | Comparable alternatives, total-cost model, attributable benefits, funded controls, downside sensitivity, adoption owners, and stage-gated decision |
+
+## Calibration, reassessment, and appeal
+
+Calibrate evaluators on a borderline 2/3, secure 3, and potential 4 artifact before summative review. Double-score all hard stops, appeals, and at least 20% of final packages (minimum five where the cohort permits). Record exact and adjacent agreement; any critical-gate disagreement requires a third review. Remediation targets the failed descriptor and uses a different case or data variation. Appeals cover procedural error, omitted evidence, access barriers, bias, or descriptor misapplication.

@@ -4,7 +4,7 @@
 
 This guide identifies the primary foundations used in Phase 3 and shows where they inform the curriculum. It is not a substitute for organization-specific legal, regulatory, contractual, labor, professional, or sector requirements.
 
-Standards and product capabilities change. Record the access date when using a source in a real project and verify that a newer edition has not replaced it.
+This inventory was reviewed on **20 October 2026**. Standards and product capabilities change. Record title, author/institution, publication or version date, identifier, direct claim supported, original URL, access date, and verification result; verify that a newer edition has not replaced the cited material.
 
 ---
 
@@ -71,12 +71,13 @@ The course treats these as system risks. A stronger prompt alone cannot enforce 
 ## Agent safety guidance
 
 - Source: [OpenAI — A Practical Guide to Building AI Agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/)
-- Source: [OpenAI — Safety in Building Agents](https://developers.openai.com/api/docs/guides/agent-builder-safety)
+- Current platform overview: [OpenAI — Agents](https://developers.openai.com/api/docs/guides/agents)
+- Current general guidance: [OpenAI — Safety best practices](https://developers.openai.com/api/docs/guides/safety-best-practices)
 - Applies to: Modules 8–10.
 
 These product-oriented sources support several vendor-neutral practices used in the curriculum: establish evaluations before optimization, choose models by measured task performance, limit tools and permissions, set retry/action boundaries, apply guardrails, inspect traces, and route high-risk or failed work to humans.
 
-Because these sources describe one vendor’s approach, compare implementation details with the selected platform rather than treating them as universal standards.
+The previously cited Agent Builder safety page became product-specific and time-limited when OpenAI announced Agent Builder's scheduled shutdown for **30 November 2026**. It is no longer the curriculum's primary safety reference. Because current sources still describe one vendor’s approach, compare implementation details with the selected platform and use NIST/OWASP as the platform-neutral baseline rather than treating vendor guidance as a universal standard.
 
 ---
 
@@ -162,4 +163,8 @@ For every material external claim, record:
 - confidence and decision use.
 
 This record belongs in the Project 5 evidence register and should be reviewed when the business case is updated.
+
+# 6. Source maintenance control
+
+The curriculum owner appoints a source steward and technical reviewer. They review living sources quarterly, before each cohort, and immediately after a material framework, security, model, API, or product change. The log records source, prior/current version, status, claims affected, modules/tests affected, action, reviewer, date, and approval. Vendor documentation is revalidated through the selected platform and direct testing; it is never treated as independent proof of safety or performance.
 

@@ -37,6 +37,10 @@ Each artifact becomes an input to the next. Learners should not select an AI opp
 - [Phase 2 Source Guide](phase-2-source-guide.md)
 - [Source Origin Map](source-origin-map.md)
 
+## Assessment and delivery control
+
+Use these chapters with the entry, workload, tool/data, accessibility, common-scale, calibration, reassessment, and appeal rules in the [Phase 2 Course Guide](phase-2-course-guide.md). Native 0–2 artifact scores remain visible; common program levels are separate evidence-based judgments.
+
 ---
 
 ## Consolidated module content

@@ -97,6 +97,22 @@ Use these labels consistently:
 
 Include at least a trend, two decision-relevant breakdowns, numerator and denominator for headline rates, one operational change, one competing explanation, and a decision deadline.
 
+### Data, tool, and access record
+
+Before analysis, record:
+
+| Control | Entry |
+|---|---|
+| Dataset name, version, and synthetic/authorized status | |
+| Data dictionary and source owner | |
+| Expected baseline checks supplied by facilitator | |
+| Tool/runtime and version | |
+| Reproduction instructions | |
+| Confidentiality, privacy, and retention restrictions | |
+| Approved accessibility or equivalent-format requirement | |
+
+The facilitator must provide a tool-neutral synthetic pack when workplace data cannot be used. A tool limitation is not a learner failure when an approved equivalent method demonstrates the same analytical reasoning.
+
 ## A5. Revision register
 
 | Version | Date | Artifact | Author | Evidence or challenge | Change made | Why it matters | Reviewer/status |

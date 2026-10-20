@@ -30,6 +30,10 @@ Complete Module 1 before Module 2 so the decision context, AI role, and human au
 - [Phase 1 Source Guide](phase-1-source-guide.md)
 - [Source Origin Map](source-origin-map.md)
 
+## Assessment and delivery control
+
+Use these chapters with the entry, workload, accessibility, source-control, common-scale, calibration, reassessment, and appeal rules in the [Phase 1 Course Guide](phase-1-course-guide.md). A completed template is not evidence of proficiency unless the learner independently defends and revises it under challenge.
+
 ---
 
 ## Consolidated module content

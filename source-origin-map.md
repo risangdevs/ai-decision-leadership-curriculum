@@ -4,12 +4,13 @@
 
 This file maps every external source linked by the curriculum to its originating organization, source class, and point of use. It is a provenance index, not an endorsement or a substitute for checking the current edition, applicability, methodology, or legal status of a source.
 
-Coverage was generated from all Markdown files in this folder on **25 September 2026**. Each distinct external URL is retained as its own record, including alternate official locations for the same publication.
+Coverage was regenerated from all Markdown files in this folder on **20 October 2026**. Each distinct external URL is retained as its own record, including alternate official locations for the same publication. Living sources require a fresh access-date and status check before each cohort.
 
 ## Curriculum file key
 
 | Key | Curriculum file |
 |---|---|
+| R | [Repository curriculum overview](README.md) |
 | M1 | [Module 1 — AI & Data-Driven Leadership Decisions](phase-1-modules[GROUP].md#module-1) |
 | M2 | [Module 2 — Decision Framing](phase-1-modules[GROUP].md#module-2) |
 | M3 | [Module 3 — Fundamentals of Data Thinking](phase-2-modules[GROUP].md#module-3) |
@@ -124,7 +125,8 @@ Files not listed above contain no external source links at the time of this inve
 | [Many-to-Many Relationship Guidance](https://learn.microsoft.com/en-us/power-bi/guidance/relationships-many-to-many) | Microsoft | Vendor product and modeling guidance | M4, P2S |
 | [What Is an Entity Relationship Diagram?](https://www.ibm.com/think/topics/entity-relationship-diagram) | IBM | Vendor-authored conceptual overview | M4, P2S |
 | [A Practical Guide to Building AI Agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/) | OpenAI | Vendor-authored implementation guidance | P3S |
-| [Safety in Building Agents](https://developers.openai.com/api/docs/guides/agent-builder-safety) | OpenAI | Vendor product safety guidance | P3S |
+| [Agents](https://developers.openai.com/api/docs/guides/agents) | OpenAI | Current vendor platform overview | P3S |
+| [Safety best practices](https://developers.openai.com/api/docs/guides/safety-best-practices) | OpenAI | Current vendor safety guidance | P3S |
 
 ## 10. Practitioner methodology
 
@@ -132,6 +134,12 @@ Files not listed above contain no external source links at the time of this inve
 |---|---|---|---|
 | [Decision Statements](https://www.structureddecisionmaking.org/the-steps/decision-statements/) | Structured Decision Making | Practitioner methodology | M2, P1S |
 | [The Steps](https://www.structureddecisionmaking.org/the-steps/) | Structured Decision Making | Practitioner methodology | M2, P1S |
+
+## 11. Accessibility standards
+
+| Source | Origin / owner | Source class | Used in |
+|---|---|---|---|
+| [Web Content Accessibility Guidelines 2.2](https://www.w3.org/TR/WCAG22/) | World Wide Web Consortium (W3C), Web Accessibility Initiative | International web accessibility recommendation | R |
 
 ## How to maintain this map
 

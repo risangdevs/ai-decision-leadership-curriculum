@@ -139,7 +139,7 @@ The learner must revise the proposal when the evidence changes. Defending the or
 
 # 5. Delivery plan
 
-Recommended format: nine 2.5-hour sessions plus capstone work and a 90-minute board defense.
+Recommended format: nine 2.5-hour learning sessions plus capstone work and a separate 90-minute board defense (listed as Session 10 below).
 
 | Session | Focus | Required performance | Artifact milestone |
 |---:|---|---|---|
@@ -248,3 +248,33 @@ Regardless of total score, the capstone cannot pass when any of the following re
 - **Rejected:** the use case is unsuitable, unlawful, economically indefensible, or outside risk appetite.
 
 Course completion requires **Approved** or a later **Approved** decision after satisfying every conditional item. “Conditionally approved” alone is not completion.
+
+---
+
+# 8. Entry, workload, access, and assessment reliability
+
+## Entry and workload
+
+Phase 4 requires a coherent Phase 3 package or equivalent evidence: bounded assistant/workflow design, reproducible analytics, evaluated controls, and a defensible business case. Use an entry review rather than title or self-report.
+
+The phase provides **24 contact hours** (22.5 hours across nine learning sessions plus a 90-minute board defense). Plan **35–60 independent hours** for the operating pilot or simulation, portfolio integration, evidence verification, revision, and defense; validate this range empirically.
+
+Learners without access to a workplace pilot must receive an equivalent four-week Asteria or synthetic operating simulation with the same cadence, evidence releases, incidents, decisions, and documentation burden. Real organizational data may be used only with authorization, minimization, approved tools, and appropriate handling controls.
+
+## Accessible board and simulation practice
+
+Provide accessible pre-reads, transcripts/text alternatives, readable evidence tables, and equivalent communication modes. Presentation speed, accent, charisma, or visual-production quality are not scoring constructs. Time pressure may be retained only where timely executive judgment is explicitly assessed, with approved accommodations that preserve the decision challenge.
+
+## Module evidence anchors
+
+Retain the native 0–4 phase rubric, then report the common program level separately: native 0–1 = Level 1 Insufficient, 2 = Level 2 Developing, 3 = Level 3 Proficient, and 4 = Level 4 Advanced. Use these anchors when module completion language is qualitative:
+
+| Module | Minimum Level-3 evidence |
+|---:|---|
+| 14 | Forum charters, decision records, owners, metric-to-action contracts, and learning mechanisms that another team can operate |
+| 15 | Reconstructed pivotal metrics, rival explanations, a proportionate Act/Delay/Redesign decision, targeted information request, and revision under an inject |
+| 16 | Context-specific obligation/risk map, testable controls, human/appeal authority, incident exercise, residual-risk decision, and risk-adjusted economics |
+
+## Evaluator control
+
+Board evaluators calibrate on benchmark responses and record evidence against both board dimensions and C1–C6. Double-score every failed hard stop, appeal, and at least 20% of capstones. Critical-gate disagreement requires a third reviewer. Conflicts of interest are disclosed; an evaluator who substantially authored the work does not make the sole summative decision.

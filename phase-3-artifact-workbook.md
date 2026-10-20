@@ -20,6 +20,25 @@ Use these evidence labels consistently:
 - **UNKNOWN:** important gap not yet resolved.
 - **DECISION:** choice made by an authorized owner.
 
+## Environment and reproducibility manifest
+
+Complete this before building or analysis:
+
+| Field | Entry |
+|---|---|
+| Tool/provider, model, API, notebook/runtime, and version | |
+| Code/package/configuration versions | |
+| Dataset/source version and synthetic/authorized status | |
+| Prompt/instruction and knowledge-source versions | |
+| Tool permissions, credentials boundary, and network access | |
+| Random seed or repeatability control where relevant | |
+| Setup and reproduction steps | |
+| Known nondeterminism and acceptable tolerance | |
+| Retention, logging, confidentiality, and deletion rule | |
+| Approved accessibility/equivalent method | |
+
+Use synthetic or authorized data in an isolated least-privilege environment. Another reviewer must be able to reproduce the main calculation, test, and one end-to-end workflow path. Record tool or model changes and rerun affected tests.
+
 ---
 
 # Part A. Project framing

@@ -37,6 +37,19 @@ Use these labels in every artifact:
 - **UNKNOWN:** material gap not resolved.
 - **DECISION:** choice made by an authorized owner.
 
+## Assessment and access record
+
+| Field | Entry |
+|---|---|
+| Curriculum, rubric, case, and source-guide versions | |
+| Tool/model/runtime and data versions | |
+| Authorized or synthetic-data status | |
+| Approved accessibility or equivalent response mode | |
+| Primary evaluator / second evaluator | |
+| Calibration set/date | |
+| Conflict-of-interest declaration | |
+| Appeal and reassessment route communicated | yes / no |
+
 ## Version register
 
 | Artifact | Version | Date | Owner | Change | Evidence/reason | Tests rerun | Approver |
@@ -612,6 +625,25 @@ Specify the exact authorization required from the board.
 |---|---|---|---|---|---|---|---|
 
 No material requirement should be orphaned. No major control should exist without a risk. No major KPI should exist without a decision response.
+
+## Independent synthesis and transfer requirements
+
+The capstone is not complete when earlier artifacts are merely assembled. Before the board defense, the learner must submit a two-page synthesis note that:
+
+- identifies material conflicts among artifact versions, assumptions, metrics, scope, owners, costs, and controls;
+- explains how each conflict was resolved or why it remains open;
+- names at least one conclusion that changed across phases and the evidence that changed it;
+- identifies dependencies that make the recommendation fail if another artifact is wrong.
+
+After the pre-read is frozen, the facilitator releases three new items: one contradictory fact, one operating constraint, and one affected-party challenge. The learner must revise the decision record and at least one connected KPI, experiment, workflow/control, or economic assumption. The change must appear in the version register and traceability matrix.
+
+The learner also completes a short unfamiliar-sector transfer case. It is scored on decision framing, evidence evaluation, risk/governance, and strategic leadership. The unfamiliar case tests transfer; it does not require a second full portfolio.
+
+During the defense, reviewers sample at least one source, one calculation, one test result, and one prototype/log claim. The learner must reproduce or trace each sample. Fabricated evidence, tests, citations, or results are a hard stop.
+
+## Common competency decision
+
+In addition to the board dimensions, evaluators record C1–C6 on the common 1–4 program scale. Completion requires at least Level 3 in every competency, no hard stop, and coherent live revision. A Level 4 requires successful performance under unfamiliar or adversarial conditions; document polish alone is insufficient.
 
 ---
 
